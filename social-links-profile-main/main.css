@@ -60,3 +60,9 @@ a:hover{
     background-color: hsl(75, 94%, 57%);
     color: black;
 }
+
+#conclude{
+    text-align: end;
+    color: hsl(75, 94%, 57%);
+    text-decoration: underline;
+}
